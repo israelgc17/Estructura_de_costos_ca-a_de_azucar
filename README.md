@@ -1,0 +1,1 @@
+Este repositorio contiene la estructura de costos completa de los sistemas riego y temporal. Se indican los conceptos que se contemplaron para el análisis de los costos económicos de las UTP en Antiguo Morelos, Tamaulipas.
